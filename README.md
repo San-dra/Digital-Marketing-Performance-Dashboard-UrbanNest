@@ -11,5 +11,3 @@ The project covers the generation, management, and visualization of digital mark
 - Campaign data modeled dynamically to reflect seasonal, national, and global marketing efforts
 - Designed for integration with Looker Studio for real-time dashboard visualization
 - Scalable structure to support continuous daily updates and future expansion
-
-This project demonstrates the complete workflow for building a marketing performance monitoring system from scratch, ideal for showcasing data engineering, analytics, and visualization skills in a portfolio setting.
